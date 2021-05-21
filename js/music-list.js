@@ -12,14 +12,14 @@ let allMusic = [
     src: "music-2",
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "No Diggity",
+    artist: "Backstreet Ft Dr.De",
     img: "music-3",
     src: "music-3",
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Perfect",
+    artist: "Ed Sheeran",
     img: "music-4",
     src: "music-4",
   },
