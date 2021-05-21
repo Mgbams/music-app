@@ -24,14 +24,14 @@ let allMusic = [
     src: "music-4",
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "Adele - Someone Like You",
+    artist: "Adele",
     img: "music-5",
     src: "music-5",
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Bryan Adams - Everything I do",
+    artist: "Bryan Adams",
     img: "music-6",
     src: "music-6",
   },
